@@ -1,19 +1,29 @@
-<p align="center"><a href="https://sinysell.com" target="_blank"><img src="https://media.discordapp.net/attachments/1028401914481750069/1029442717761163315/default-dark.png" width="400"></a></p>
+# Sinysell
 
-<div align="center">
-<a href="https://github.com/Sinysell-com" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Estemazlevrai" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/cMVT7j3Xvw" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%2308090A.svg?&style=for-the-badge&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://sinysell.com" target="_blank">
-<img src=https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Project Status: Abandoned
 
-<br/>  
+We regret to inform you that the Sinysell project has been abandoned. 
+
+## About Sinysell
+
+Sinysell was envisioned as a cutting-edge platform designed to revolutionize the e-commerce experience. Despite our best efforts and dedication, we have decided to halt further development.
+
+## Reasons for Abandonment
+
+- **Lack of Time:** Our team members faced significant time constraints that made it challenging to continue the project.
+- **Resource Constraints:** We encountered difficulties in securing the necessary resources to sustain development.
+
+## Future Plans
+
+While Sinysell will no longer be developed, we are excited about new opportunities and projects on the horizon. Stay tuned for updates on our future endeavors.
+
+## Contact
+
+For any inquiries or further information, you can reach out to us at:
+
+- [Twitter](https://x.com/0xTryxium)
+- [Discord](https://discord.com/users/187986767696101385) (0xtryxium)
+
+Thank you for your understanding and support.
+Sincerely,
+The Sinysell Team
